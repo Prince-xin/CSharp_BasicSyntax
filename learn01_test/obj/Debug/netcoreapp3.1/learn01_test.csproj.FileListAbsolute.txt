@@ -1,0 +1,13 @@
+E:\CSharpProject\CSharpBasicSyntax\learn01_test\bin\Debug\netcoreapp3.1\learn01_test.exe
+E:\CSharpProject\CSharpBasicSyntax\learn01_test\bin\Debug\netcoreapp3.1\learn01_test.deps.json
+E:\CSharpProject\CSharpBasicSyntax\learn01_test\bin\Debug\netcoreapp3.1\learn01_test.runtimeconfig.json
+E:\CSharpProject\CSharpBasicSyntax\learn01_test\bin\Debug\netcoreapp3.1\learn01_test.runtimeconfig.dev.json
+E:\CSharpProject\CSharpBasicSyntax\learn01_test\bin\Debug\netcoreapp3.1\learn01_test.dll
+E:\CSharpProject\CSharpBasicSyntax\learn01_test\bin\Debug\netcoreapp3.1\learn01_test.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn01_test\obj\Debug\netcoreapp3.1\learn01_test.csprojAssemblyReference.cache
+E:\CSharpProject\CSharpBasicSyntax\learn01_test\obj\Debug\netcoreapp3.1\learn01_test.AssemblyInfoInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn01_test\obj\Debug\netcoreapp3.1\learn01_test.AssemblyInfo.cs
+E:\CSharpProject\CSharpBasicSyntax\learn01_test\obj\Debug\netcoreapp3.1\learn01_test.csproj.CoreCompileInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn01_test\obj\Debug\netcoreapp3.1\learn01_test.dll
+E:\CSharpProject\CSharpBasicSyntax\learn01_test\obj\Debug\netcoreapp3.1\learn01_test.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn01_test\obj\Debug\netcoreapp3.1\learn01_test.genruntimeconfig.cache
