@@ -1,0 +1,13 @@
+E:\CSharpProject\CSharpBasicSyntax\learn01_HelloWorld\bin\Debug\netcoreapp3.1\learn01_HelloWorld.exe
+E:\CSharpProject\CSharpBasicSyntax\learn01_HelloWorld\bin\Debug\netcoreapp3.1\learn01_HelloWorld.deps.json
+E:\CSharpProject\CSharpBasicSyntax\learn01_HelloWorld\bin\Debug\netcoreapp3.1\learn01_HelloWorld.runtimeconfig.json
+E:\CSharpProject\CSharpBasicSyntax\learn01_HelloWorld\bin\Debug\netcoreapp3.1\learn01_HelloWorld.runtimeconfig.dev.json
+E:\CSharpProject\CSharpBasicSyntax\learn01_HelloWorld\bin\Debug\netcoreapp3.1\learn01_HelloWorld.dll
+E:\CSharpProject\CSharpBasicSyntax\learn01_HelloWorld\bin\Debug\netcoreapp3.1\learn01_HelloWorld.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn01_HelloWorld\obj\Debug\netcoreapp3.1\learn01_HelloWorld.csprojAssemblyReference.cache
+E:\CSharpProject\CSharpBasicSyntax\learn01_HelloWorld\obj\Debug\netcoreapp3.1\learn01_HelloWorld.AssemblyInfoInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn01_HelloWorld\obj\Debug\netcoreapp3.1\learn01_HelloWorld.AssemblyInfo.cs
+E:\CSharpProject\CSharpBasicSyntax\learn01_HelloWorld\obj\Debug\netcoreapp3.1\learn01_HelloWorld.csproj.CoreCompileInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn01_HelloWorld\obj\Debug\netcoreapp3.1\learn01_HelloWorld.dll
+E:\CSharpProject\CSharpBasicSyntax\learn01_HelloWorld\obj\Debug\netcoreapp3.1\learn01_HelloWorld.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn01_HelloWorld\obj\Debug\netcoreapp3.1\learn01_HelloWorld.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\CSharpProject\CSharpBasicSyntax\learn02_variable\bin\Debug\netcoreapp3.1\learn02_variable.exe
+E:\CSharpProject\CSharpBasicSyntax\learn02_variable\bin\Debug\netcoreapp3.1\learn02_variable.deps.json
+E:\CSharpProject\CSharpBasicSyntax\learn02_variable\bin\Debug\netcoreapp3.1\learn02_variable.runtimeconfig.json
+E:\CSharpProject\CSharpBasicSyntax\learn02_variable\bin\Debug\netcoreapp3.1\learn02_variable.runtimeconfig.dev.json
+E:\CSharpProject\CSharpBasicSyntax\learn02_variable\bin\Debug\netcoreapp3.1\learn02_variable.dll
+E:\CSharpProject\CSharpBasicSyntax\learn02_variable\bin\Debug\netcoreapp3.1\learn02_variable.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn02_variable\obj\Debug\netcoreapp3.1\learn02_variable.csprojAssemblyReference.cache
+E:\CSharpProject\CSharpBasicSyntax\learn02_variable\obj\Debug\netcoreapp3.1\learn02_variable.AssemblyInfoInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn02_variable\obj\Debug\netcoreapp3.1\learn02_variable.AssemblyInfo.cs
+E:\CSharpProject\CSharpBasicSyntax\learn02_variable\obj\Debug\netcoreapp3.1\learn02_variable.csproj.CoreCompileInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn02_variable\obj\Debug\netcoreapp3.1\learn02_variable.dll
+E:\CSharpProject\CSharpBasicSyntax\learn02_variable\obj\Debug\netcoreapp3.1\learn02_variable.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn02_variable\obj\Debug\netcoreapp3.1\learn02_variable.genruntimeconfig.cache
