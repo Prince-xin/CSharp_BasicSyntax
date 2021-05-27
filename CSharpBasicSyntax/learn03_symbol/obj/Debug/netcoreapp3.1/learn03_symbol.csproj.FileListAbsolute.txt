@@ -1,0 +1,13 @@
+E:\CSharpProject\CSharpBasicSyntax\learn03_symbol\bin\Debug\netcoreapp3.1\learn03_symbol.exe
+E:\CSharpProject\CSharpBasicSyntax\learn03_symbol\bin\Debug\netcoreapp3.1\learn03_symbol.deps.json
+E:\CSharpProject\CSharpBasicSyntax\learn03_symbol\bin\Debug\netcoreapp3.1\learn03_symbol.runtimeconfig.json
+E:\CSharpProject\CSharpBasicSyntax\learn03_symbol\bin\Debug\netcoreapp3.1\learn03_symbol.runtimeconfig.dev.json
+E:\CSharpProject\CSharpBasicSyntax\learn03_symbol\bin\Debug\netcoreapp3.1\learn03_symbol.dll
+E:\CSharpProject\CSharpBasicSyntax\learn03_symbol\bin\Debug\netcoreapp3.1\learn03_symbol.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn03_symbol\obj\Debug\netcoreapp3.1\learn03_symbol.csprojAssemblyReference.cache
+E:\CSharpProject\CSharpBasicSyntax\learn03_symbol\obj\Debug\netcoreapp3.1\learn03_symbol.AssemblyInfoInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn03_symbol\obj\Debug\netcoreapp3.1\learn03_symbol.AssemblyInfo.cs
+E:\CSharpProject\CSharpBasicSyntax\learn03_symbol\obj\Debug\netcoreapp3.1\learn03_symbol.csproj.CoreCompileInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn03_symbol\obj\Debug\netcoreapp3.1\learn03_symbol.dll
+E:\CSharpProject\CSharpBasicSyntax\learn03_symbol\obj\Debug\netcoreapp3.1\learn03_symbol.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn03_symbol\obj\Debug\netcoreapp3.1\learn03_symbol.genruntimeconfig.cache
