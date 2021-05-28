@@ -1,0 +1,13 @@
+E:\CSharpProject\CSharpBasicSyntax\learn04_practices\bin\Debug\netcoreapp3.1\learn04_practices.exe
+E:\CSharpProject\CSharpBasicSyntax\learn04_practices\bin\Debug\netcoreapp3.1\learn04_practices.deps.json
+E:\CSharpProject\CSharpBasicSyntax\learn04_practices\bin\Debug\netcoreapp3.1\learn04_practices.runtimeconfig.json
+E:\CSharpProject\CSharpBasicSyntax\learn04_practices\bin\Debug\netcoreapp3.1\learn04_practices.runtimeconfig.dev.json
+E:\CSharpProject\CSharpBasicSyntax\learn04_practices\bin\Debug\netcoreapp3.1\learn04_practices.dll
+E:\CSharpProject\CSharpBasicSyntax\learn04_practices\bin\Debug\netcoreapp3.1\learn04_practices.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn04_practices\obj\Debug\netcoreapp3.1\learn04_practices.csprojAssemblyReference.cache
+E:\CSharpProject\CSharpBasicSyntax\learn04_practices\obj\Debug\netcoreapp3.1\learn04_practices.AssemblyInfoInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn04_practices\obj\Debug\netcoreapp3.1\learn04_practices.AssemblyInfo.cs
+E:\CSharpProject\CSharpBasicSyntax\learn04_practices\obj\Debug\netcoreapp3.1\learn04_practices.csproj.CoreCompileInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn04_practices\obj\Debug\netcoreapp3.1\learn04_practices.dll
+E:\CSharpProject\CSharpBasicSyntax\learn04_practices\obj\Debug\netcoreapp3.1\learn04_practices.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn04_practices\obj\Debug\netcoreapp3.1\learn04_practices.genruntimeconfig.cache

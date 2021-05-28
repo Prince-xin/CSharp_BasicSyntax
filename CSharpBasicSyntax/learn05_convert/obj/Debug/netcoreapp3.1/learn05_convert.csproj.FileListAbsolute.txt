@@ -1,0 +1,12 @@
+E:\CSharpProject\CSharpBasicSyntax\learn05_convert\bin\Debug\netcoreapp3.1\learn05_convert.exe
+E:\CSharpProject\CSharpBasicSyntax\learn05_convert\bin\Debug\netcoreapp3.1\learn05_convert.deps.json
+E:\CSharpProject\CSharpBasicSyntax\learn05_convert\bin\Debug\netcoreapp3.1\learn05_convert.runtimeconfig.json
+E:\CSharpProject\CSharpBasicSyntax\learn05_convert\bin\Debug\netcoreapp3.1\learn05_convert.runtimeconfig.dev.json
+E:\CSharpProject\CSharpBasicSyntax\learn05_convert\bin\Debug\netcoreapp3.1\learn05_convert.dll
+E:\CSharpProject\CSharpBasicSyntax\learn05_convert\bin\Debug\netcoreapp3.1\learn05_convert.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn05_convert\obj\Debug\netcoreapp3.1\learn05_convert.AssemblyInfoInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn05_convert\obj\Debug\netcoreapp3.1\learn05_convert.AssemblyInfo.cs
+E:\CSharpProject\CSharpBasicSyntax\learn05_convert\obj\Debug\netcoreapp3.1\learn05_convert.csproj.CoreCompileInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn05_convert\obj\Debug\netcoreapp3.1\learn05_convert.dll
+E:\CSharpProject\CSharpBasicSyntax\learn05_convert\obj\Debug\netcoreapp3.1\learn05_convert.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn05_convert\obj\Debug\netcoreapp3.1\learn05_convert.genruntimeconfig.cache
