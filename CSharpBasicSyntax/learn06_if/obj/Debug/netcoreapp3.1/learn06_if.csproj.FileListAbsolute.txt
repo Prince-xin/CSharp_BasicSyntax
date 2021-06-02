@@ -1,0 +1,13 @@
+E:\CSharpProject\CSharpBasicSyntax\learn06_if\bin\Debug\netcoreapp3.1\learn06_if.exe
+E:\CSharpProject\CSharpBasicSyntax\learn06_if\bin\Debug\netcoreapp3.1\learn06_if.deps.json
+E:\CSharpProject\CSharpBasicSyntax\learn06_if\bin\Debug\netcoreapp3.1\learn06_if.runtimeconfig.json
+E:\CSharpProject\CSharpBasicSyntax\learn06_if\bin\Debug\netcoreapp3.1\learn06_if.runtimeconfig.dev.json
+E:\CSharpProject\CSharpBasicSyntax\learn06_if\bin\Debug\netcoreapp3.1\learn06_if.dll
+E:\CSharpProject\CSharpBasicSyntax\learn06_if\bin\Debug\netcoreapp3.1\learn06_if.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn06_if\obj\Debug\netcoreapp3.1\learn06_if.csprojAssemblyReference.cache
+E:\CSharpProject\CSharpBasicSyntax\learn06_if\obj\Debug\netcoreapp3.1\learn06_if.AssemblyInfoInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn06_if\obj\Debug\netcoreapp3.1\learn06_if.AssemblyInfo.cs
+E:\CSharpProject\CSharpBasicSyntax\learn06_if\obj\Debug\netcoreapp3.1\learn06_if.csproj.CoreCompileInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn06_if\obj\Debug\netcoreapp3.1\learn06_if.dll
+E:\CSharpProject\CSharpBasicSyntax\learn06_if\obj\Debug\netcoreapp3.1\learn06_if.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn06_if\obj\Debug\netcoreapp3.1\learn06_if.genruntimeconfig.cache
