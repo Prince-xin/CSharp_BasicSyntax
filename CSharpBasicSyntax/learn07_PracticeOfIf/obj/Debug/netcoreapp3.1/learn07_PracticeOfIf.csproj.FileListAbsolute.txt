@@ -1,0 +1,13 @@
+E:\CSharpProject\CSharpBasicSyntax\learn07_PracticeOfIf\bin\Debug\netcoreapp3.1\learn07_PracticeOfIf.exe
+E:\CSharpProject\CSharpBasicSyntax\learn07_PracticeOfIf\bin\Debug\netcoreapp3.1\learn07_PracticeOfIf.deps.json
+E:\CSharpProject\CSharpBasicSyntax\learn07_PracticeOfIf\bin\Debug\netcoreapp3.1\learn07_PracticeOfIf.runtimeconfig.json
+E:\CSharpProject\CSharpBasicSyntax\learn07_PracticeOfIf\bin\Debug\netcoreapp3.1\learn07_PracticeOfIf.runtimeconfig.dev.json
+E:\CSharpProject\CSharpBasicSyntax\learn07_PracticeOfIf\bin\Debug\netcoreapp3.1\learn07_PracticeOfIf.dll
+E:\CSharpProject\CSharpBasicSyntax\learn07_PracticeOfIf\bin\Debug\netcoreapp3.1\learn07_PracticeOfIf.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn07_PracticeOfIf\obj\Debug\netcoreapp3.1\learn07_PracticeOfIf.csprojAssemblyReference.cache
+E:\CSharpProject\CSharpBasicSyntax\learn07_PracticeOfIf\obj\Debug\netcoreapp3.1\learn07_PracticeOfIf.AssemblyInfoInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn07_PracticeOfIf\obj\Debug\netcoreapp3.1\learn07_PracticeOfIf.AssemblyInfo.cs
+E:\CSharpProject\CSharpBasicSyntax\learn07_PracticeOfIf\obj\Debug\netcoreapp3.1\learn07_PracticeOfIf.csproj.CoreCompileInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn07_PracticeOfIf\obj\Debug\netcoreapp3.1\learn07_PracticeOfIf.dll
+E:\CSharpProject\CSharpBasicSyntax\learn07_PracticeOfIf\obj\Debug\netcoreapp3.1\learn07_PracticeOfIf.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn07_PracticeOfIf\obj\Debug\netcoreapp3.1\learn07_PracticeOfIf.genruntimeconfig.cache
