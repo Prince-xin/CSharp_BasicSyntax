@@ -1,0 +1,12 @@
+E:\CSharpProject\CSharpBasicSyntax\learn08_Exception\bin\Debug\netcoreapp3.1\learn08_Exception.exe
+E:\CSharpProject\CSharpBasicSyntax\learn08_Exception\bin\Debug\netcoreapp3.1\learn08_Exception.deps.json
+E:\CSharpProject\CSharpBasicSyntax\learn08_Exception\bin\Debug\netcoreapp3.1\learn08_Exception.runtimeconfig.json
+E:\CSharpProject\CSharpBasicSyntax\learn08_Exception\bin\Debug\netcoreapp3.1\learn08_Exception.runtimeconfig.dev.json
+E:\CSharpProject\CSharpBasicSyntax\learn08_Exception\bin\Debug\netcoreapp3.1\learn08_Exception.dll
+E:\CSharpProject\CSharpBasicSyntax\learn08_Exception\bin\Debug\netcoreapp3.1\learn08_Exception.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn08_Exception\obj\Debug\netcoreapp3.1\learn08_Exception.AssemblyInfoInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn08_Exception\obj\Debug\netcoreapp3.1\learn08_Exception.AssemblyInfo.cs
+E:\CSharpProject\CSharpBasicSyntax\learn08_Exception\obj\Debug\netcoreapp3.1\learn08_Exception.csproj.CoreCompileInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn08_Exception\obj\Debug\netcoreapp3.1\learn08_Exception.dll
+E:\CSharpProject\CSharpBasicSyntax\learn08_Exception\obj\Debug\netcoreapp3.1\learn08_Exception.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn08_Exception\obj\Debug\netcoreapp3.1\learn08_Exception.genruntimeconfig.cache
