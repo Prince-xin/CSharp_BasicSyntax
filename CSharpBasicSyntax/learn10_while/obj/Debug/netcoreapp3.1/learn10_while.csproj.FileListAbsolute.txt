@@ -1,0 +1,13 @@
+E:\CSharpProject\CSharpBasicSyntax\learn10_while\bin\Debug\netcoreapp3.1\learn10_while.exe
+E:\CSharpProject\CSharpBasicSyntax\learn10_while\bin\Debug\netcoreapp3.1\learn10_while.deps.json
+E:\CSharpProject\CSharpBasicSyntax\learn10_while\bin\Debug\netcoreapp3.1\learn10_while.runtimeconfig.json
+E:\CSharpProject\CSharpBasicSyntax\learn10_while\bin\Debug\netcoreapp3.1\learn10_while.runtimeconfig.dev.json
+E:\CSharpProject\CSharpBasicSyntax\learn10_while\bin\Debug\netcoreapp3.1\learn10_while.dll
+E:\CSharpProject\CSharpBasicSyntax\learn10_while\bin\Debug\netcoreapp3.1\learn10_while.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn10_while\obj\Debug\netcoreapp3.1\learn10_while.csprojAssemblyReference.cache
+E:\CSharpProject\CSharpBasicSyntax\learn10_while\obj\Debug\netcoreapp3.1\learn10_while.AssemblyInfoInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn10_while\obj\Debug\netcoreapp3.1\learn10_while.AssemblyInfo.cs
+E:\CSharpProject\CSharpBasicSyntax\learn10_while\obj\Debug\netcoreapp3.1\learn10_while.csproj.CoreCompileInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn10_while\obj\Debug\netcoreapp3.1\learn10_while.dll
+E:\CSharpProject\CSharpBasicSyntax\learn10_while\obj\Debug\netcoreapp3.1\learn10_while.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn10_while\obj\Debug\netcoreapp3.1\learn10_while.genruntimeconfig.cache
