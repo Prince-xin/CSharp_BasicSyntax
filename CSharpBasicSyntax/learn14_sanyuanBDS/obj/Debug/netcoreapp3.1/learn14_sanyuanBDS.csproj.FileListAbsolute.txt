@@ -1,0 +1,12 @@
+E:\CSharpProject\CSharpBasicSyntax\learn14_sanyuanBDS\bin\Debug\netcoreapp3.1\learn14_sanyuanBDS.exe
+E:\CSharpProject\CSharpBasicSyntax\learn14_sanyuanBDS\bin\Debug\netcoreapp3.1\learn14_sanyuanBDS.deps.json
+E:\CSharpProject\CSharpBasicSyntax\learn14_sanyuanBDS\bin\Debug\netcoreapp3.1\learn14_sanyuanBDS.runtimeconfig.json
+E:\CSharpProject\CSharpBasicSyntax\learn14_sanyuanBDS\bin\Debug\netcoreapp3.1\learn14_sanyuanBDS.runtimeconfig.dev.json
+E:\CSharpProject\CSharpBasicSyntax\learn14_sanyuanBDS\bin\Debug\netcoreapp3.1\learn14_sanyuanBDS.dll
+E:\CSharpProject\CSharpBasicSyntax\learn14_sanyuanBDS\bin\Debug\netcoreapp3.1\learn14_sanyuanBDS.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn14_sanyuanBDS\obj\Debug\netcoreapp3.1\learn14_sanyuanBDS.AssemblyInfoInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn14_sanyuanBDS\obj\Debug\netcoreapp3.1\learn14_sanyuanBDS.AssemblyInfo.cs
+E:\CSharpProject\CSharpBasicSyntax\learn14_sanyuanBDS\obj\Debug\netcoreapp3.1\learn14_sanyuanBDS.csproj.CoreCompileInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn14_sanyuanBDS\obj\Debug\netcoreapp3.1\learn14_sanyuanBDS.dll
+E:\CSharpProject\CSharpBasicSyntax\learn14_sanyuanBDS\obj\Debug\netcoreapp3.1\learn14_sanyuanBDS.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn14_sanyuanBDS\obj\Debug\netcoreapp3.1\learn14_sanyuanBDS.genruntimeconfig.cache
