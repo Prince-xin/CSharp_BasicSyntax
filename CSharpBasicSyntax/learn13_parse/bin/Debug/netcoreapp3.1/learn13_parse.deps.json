@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "learn13_parse/1.0.0": {
+        "runtime": {
+          "learn13_parse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "learn13_parse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+E:\CSharpProject\CSharpBasicSyntax\learn13_parse\obj\Debug\netcoreapp3.1\learn13_parse.csprojAssemblyReference.cache
+E:\CSharpProject\CSharpBasicSyntax\learn13_parse\obj\Debug\netcoreapp3.1\learn13_parse.AssemblyInfoInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn13_parse\obj\Debug\netcoreapp3.1\learn13_parse.AssemblyInfo.cs
+E:\CSharpProject\CSharpBasicSyntax\learn13_parse\obj\Debug\netcoreapp3.1\learn13_parse.csproj.CoreCompileInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn13_parse\bin\Debug\netcoreapp3.1\learn13_parse.exe
+E:\CSharpProject\CSharpBasicSyntax\learn13_parse\bin\Debug\netcoreapp3.1\learn13_parse.deps.json
+E:\CSharpProject\CSharpBasicSyntax\learn13_parse\bin\Debug\netcoreapp3.1\learn13_parse.runtimeconfig.json
+E:\CSharpProject\CSharpBasicSyntax\learn13_parse\bin\Debug\netcoreapp3.1\learn13_parse.runtimeconfig.dev.json
+E:\CSharpProject\CSharpBasicSyntax\learn13_parse\bin\Debug\netcoreapp3.1\learn13_parse.dll
+E:\CSharpProject\CSharpBasicSyntax\learn13_parse\bin\Debug\netcoreapp3.1\learn13_parse.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn13_parse\obj\Debug\netcoreapp3.1\learn13_parse.dll
+E:\CSharpProject\CSharpBasicSyntax\learn13_parse\obj\Debug\netcoreapp3.1\learn13_parse.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn13_parse\obj\Debug\netcoreapp3.1\learn13_parse.genruntimeconfig.cache
