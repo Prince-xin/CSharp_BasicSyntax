@@ -1,0 +1,13 @@
+E:\CSharpProject\CSharpBasicSyntax\learn17_struct\bin\Debug\netcoreapp3.1\learn17_struct.exe
+E:\CSharpProject\CSharpBasicSyntax\learn17_struct\bin\Debug\netcoreapp3.1\learn17_struct.deps.json
+E:\CSharpProject\CSharpBasicSyntax\learn17_struct\bin\Debug\netcoreapp3.1\learn17_struct.runtimeconfig.json
+E:\CSharpProject\CSharpBasicSyntax\learn17_struct\bin\Debug\netcoreapp3.1\learn17_struct.runtimeconfig.dev.json
+E:\CSharpProject\CSharpBasicSyntax\learn17_struct\bin\Debug\netcoreapp3.1\learn17_struct.dll
+E:\CSharpProject\CSharpBasicSyntax\learn17_struct\bin\Debug\netcoreapp3.1\learn17_struct.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn17_struct\obj\Debug\netcoreapp3.1\learn17_struct.csprojAssemblyReference.cache
+E:\CSharpProject\CSharpBasicSyntax\learn17_struct\obj\Debug\netcoreapp3.1\learn17_struct.AssemblyInfoInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn17_struct\obj\Debug\netcoreapp3.1\learn17_struct.AssemblyInfo.cs
+E:\CSharpProject\CSharpBasicSyntax\learn17_struct\obj\Debug\netcoreapp3.1\learn17_struct.csproj.CoreCompileInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn17_struct\obj\Debug\netcoreapp3.1\learn17_struct.dll
+E:\CSharpProject\CSharpBasicSyntax\learn17_struct\obj\Debug\netcoreapp3.1\learn17_struct.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn17_struct\obj\Debug\netcoreapp3.1\learn17_struct.genruntimeconfig.cache
