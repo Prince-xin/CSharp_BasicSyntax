@@ -1,0 +1,13 @@
+E:\CSharpProject\CSharpBasicSyntax\learn16_enum\bin\Debug\netcoreapp3.1\learn16_enum.exe
+E:\CSharpProject\CSharpBasicSyntax\learn16_enum\bin\Debug\netcoreapp3.1\learn16_enum.deps.json
+E:\CSharpProject\CSharpBasicSyntax\learn16_enum\bin\Debug\netcoreapp3.1\learn16_enum.runtimeconfig.json
+E:\CSharpProject\CSharpBasicSyntax\learn16_enum\bin\Debug\netcoreapp3.1\learn16_enum.runtimeconfig.dev.json
+E:\CSharpProject\CSharpBasicSyntax\learn16_enum\bin\Debug\netcoreapp3.1\learn16_enum.dll
+E:\CSharpProject\CSharpBasicSyntax\learn16_enum\bin\Debug\netcoreapp3.1\learn16_enum.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn16_enum\obj\Debug\netcoreapp3.1\learn16_enum.csprojAssemblyReference.cache
+E:\CSharpProject\CSharpBasicSyntax\learn16_enum\obj\Debug\netcoreapp3.1\learn16_enum.AssemblyInfoInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn16_enum\obj\Debug\netcoreapp3.1\learn16_enum.AssemblyInfo.cs
+E:\CSharpProject\CSharpBasicSyntax\learn16_enum\obj\Debug\netcoreapp3.1\learn16_enum.csproj.CoreCompileInputs.cache
+E:\CSharpProject\CSharpBasicSyntax\learn16_enum\obj\Debug\netcoreapp3.1\learn16_enum.dll
+E:\CSharpProject\CSharpBasicSyntax\learn16_enum\obj\Debug\netcoreapp3.1\learn16_enum.pdb
+E:\CSharpProject\CSharpBasicSyntax\learn16_enum\obj\Debug\netcoreapp3.1\learn16_enum.genruntimeconfig.cache
